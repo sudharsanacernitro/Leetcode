@@ -25,7 +25,6 @@ class Solution {
         int temp=nums[i];
         nums[i]=nums[j];
         nums[j]=temp;
-
     }
 
     void rev(int[] nums,int start,int end)

@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/sudharsanacernitro/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/sudharsanacernitro/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/sudharsanacernitro/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sudharsanacernitro/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,12 +30,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sudharsanacernitro/Leetcode/tree/master/0011-container-with-most-water) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/sudharsanacernitro/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/sudharsanacernitro/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sudharsanacernitro/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 ## Sorting
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/sudharsanacernitro/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/sudharsanacernitro/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/sudharsanacernitro/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sudharsanacernitro/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 ## Monotonic Stack
 |  |
 | ------- |

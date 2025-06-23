@@ -9,81 +9,88 @@
  */
 class Solution {
     
+    HashSet<Integer> result = new HashSet<>();
+
    
     public List<Integer> distanceK(TreeNode root, TreeNode target, int distance) {
         
         
-        Map<TreeNode, List<TreeNode>> graph=treeToGraph(root);
+        computeResult(target,distance);
 
-        Queue<TreeNode> q=new LinkedList<>();
-        HashSet<TreeNode> hs=new HashSet<>();
+        target.left=null;
+        target.right=null;
+        root = makeNewRoot(root,target);
 
-        List<Integer> result=new ArrayList<>();
+        computeResult(root,distance);
 
+        return new ArrayList<>(result);
+    }
 
-        
-           q.add(target);
-           hs.add(target);
+    public void computeResult(TreeNode root, int distance)
+    {
+
+       Queue<TreeNode> q=new LinkedList<>();
+
+       q.add(root);
 
         int level=0;
-        
-        while(!q.isEmpty())
+       while(!q.isEmpty())
+       {
+        int size=q.size();
+
+        if(level == distance)
         {
-            int size=q.size();
-
-             if (level == distance) {
-                for (TreeNode node : q) {
-                    result.add(node.val);
-                }
-                return result;
-            }
-
-            for(int i=0;i<size;i++)
+            for(TreeNode curr : q)
             {
-                List<TreeNode> lst=  graph.getOrDefault(q.poll(),new ArrayList<>());
-                for(TreeNode k:lst)
-                {
-                    if(!hs.contains(k))
-                    {
-                        q.add(k);
-                        hs.add(k);
+                result.add(curr.val);
+            } 
+            break;
+            
+        }
+        for(int i=0;i<size;i++)
+        {
+            TreeNode curr=q.poll();
 
-                    }
-                }
-            }
+            if(curr.left!=null) q.add(curr.left);
+            if(curr.right!=null) q.add(curr.right);
+
+        }
+        level++;
+       }
+
+    }
 
 
-            level++;
+    private boolean findPath(TreeNode root, TreeNode target, List<TreeNode> path) {
+        if (root == null) return false;
+        path.add(root);
+        if (root == target) return true;
+        if (findPath(root.left, target, path) || findPath(root.right, target, path)) return true;
+        path.remove(path.size() - 1);
+        return false;
+    }
+
+    public TreeNode makeNewRoot(TreeNode root, TreeNode target) {
+        List<TreeNode> path = new ArrayList<>();
+        findPath(root, target, path);
+
+        // Reversing the path
+        for (int i = path.size() - 1; i > 0; i--) {
+            TreeNode child = path.get(i);
+            TreeNode parent = path.get(i - 1);
+
+            // Detach and reverse the parent-child relationship
+            if (parent.left == child) parent.left = null;
+            else parent.right = null;
+
+            if (child.left == null) child.left = parent;
+            else child.right = parent;
         }
 
-        
-
-        return result;
-
-
-
+        return target;  // Now target is new root
     }
 
-   public Map<TreeNode, List<TreeNode>> treeToGraph(TreeNode root) {
-        Map<TreeNode, List<TreeNode>> graph = new HashMap<>();
-        buildGraph(root, null, graph);
-        return graph;
-    }
-
-    // DFS to build the graph with parent-child undirected edges
-    private void buildGraph(TreeNode node, TreeNode parent, Map<TreeNode, List<TreeNode>> graph) {
-        if (node == null) return;
-
-        graph.putIfAbsent(node, new ArrayList<>());
-
-        if (parent != null) {
-            graph.get(node).add(parent);
-            graph.get(parent).add(node); // undirected edge
-        }
-
-        buildGraph(node.left, node, graph);
-        buildGraph(node.right, node, graph);
-    }
+  
 
 
 }

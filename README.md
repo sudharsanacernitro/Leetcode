@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/sudharsanacernitro/Leetcode/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/sudharsanacernitro/Leetcode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/sudharsanacernitro/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0560-subarray-sum-equals-k](https://github.com/sudharsanacernitro/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/sudharsanacernitro/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/sudharsanacernitro/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/sudharsanacernitro/Leetcode/tree/master/0735-asteroid-collision) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sudharsanacernitro/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sudharsanacernitro/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/sudharsanacernitro/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/sudharsanacernitro/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sudharsanacernitro/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sudharsanacernitro/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sudharsanacernitro/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/sudharsanacernitro/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Counting
 |  |
 | ------- |

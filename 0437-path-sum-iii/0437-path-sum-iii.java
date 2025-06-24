@@ -17,29 +17,30 @@ class Solution {
 
     int count=0;
     public int pathSum(TreeNode root, int targetSum) {
-        
-        dfs(root,(long)targetSum);
+
+        HashMap<Long,Integer> prefixSum=new HashMap<>();
+        prefixSum.put(0L,1);
+
+        dfs(root,(long)targetSum,(long)0,prefixSum);
         System.out.println(count);
         return count;
     }
 
-    void dfs(TreeNode root,long targetSum)
+    void dfs(TreeNode root,long targetSum , Long currSum ,HashMap<Long,Integer> prefixSum)
     {
         if(root == null) return;
 
-        dfs(root.left,targetSum);
-        isValid(root,targetSum);
-        dfs(root.right,targetSum);
+        currSum+=root.val;
+
+        count+=prefixSum.getOrDefault(currSum-targetSum,0);
+
+        prefixSum.put(currSum,prefixSum.getOrDefault(currSum,0)+1);
+
+        dfs(root.left,targetSum,currSum,prefixSum);
+        dfs(root.right,targetSum,currSum,prefixSum);
+
+        prefixSum.put(currSum, prefixSum.get(currSum) - 1);
     }
 
-    void  isValid(TreeNode root,long targetSum)
-    {
-        if(root == null) return;
-
-        if(targetSum == root.val) count++;
-
-        isValid(root.left,targetSum-root.val);
-        isValid(root.right,targetSum-root.val);
-
-    }
+  
 }

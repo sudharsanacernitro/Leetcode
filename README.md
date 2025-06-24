@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sudharsanacernitro/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/sudharsanacernitro/Leetcode/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/sudharsanacernitro/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/sudharsanacernitro/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sudharsanacernitro/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0832-binary-tree-pruning](https://github.com/sudharsanacernitro/Leetcode/tree/master/0832-binary-tree-pruning) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sudharsanacernitro/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sudharsanacernitro/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/sudharsanacernitro/Leetcode/tree/master/0437-path-sum-iii) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/sudharsanacernitro/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sudharsanacernitro/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0832-binary-tree-pruning](https://github.com/sudharsanacernitro/Leetcode/tree/master/0832-binary-tree-pruning) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sudharsanacernitro/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sudharsanacernitro/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/sudharsanacernitro/Leetcode/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/sudharsanacernitro/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/sudharsanacernitro/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sudharsanacernitro/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0832-binary-tree-pruning](https://github.com/sudharsanacernitro/Leetcode/tree/master/0832-binary-tree-pruning) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sudharsanacernitro/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -181,4 +184,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sudharsanacernitro/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/sudharsanacernitro/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/sudharsanacernitro/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 <!---LeetCode Topics End-->

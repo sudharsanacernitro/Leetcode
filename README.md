@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sudharsanacernitro/Leetcode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/sudharsanacernitro/Leetcode/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/sudharsanacernitro/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/sudharsanacernitro/Leetcode/tree/master/0047-permutations-ii) |
 | [0064-minimum-path-sum](https://github.com/sudharsanacernitro/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sudharsanacernitro/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sudharsanacernitro/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/sudharsanacernitro/Leetcode/tree/master/0047-permutations-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/sudharsanacernitro/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/sudharsanacernitro/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/sudharsanacernitro/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -226,5 +228,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/sudharsanacernitro/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/sudharsanacernitro/Leetcode/tree/master/0047-permutations-ii) |
 | [0113-path-sum-ii](https://github.com/sudharsanacernitro/Leetcode/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->

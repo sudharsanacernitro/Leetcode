@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/sudharsanacernitro/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1022-unique-paths-iii](https://github.com/sudharsanacernitro/Leetcode/tree/master/1022-unique-paths-iii) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sudharsanacernitro/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2591-frog-jump-ii](https://github.com/sudharsanacernitro/Leetcode/tree/master/2591-frog-jump-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/sudharsanacernitro/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/sudharsanacernitro/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sudharsanacernitro/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2591-frog-jump-ii](https://github.com/sudharsanacernitro/Leetcode/tree/master/2591-frog-jump-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sudharsanacernitro/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/sudharsanacernitro/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [2591-frog-jump-ii](https://github.com/sudharsanacernitro/Leetcode/tree/master/2591-frog-jump-ii) |
 ## Prefix Sum
 |  |
 | ------- |

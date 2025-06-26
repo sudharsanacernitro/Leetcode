@@ -18,8 +18,7 @@ class Solution {
 
             if(isPossible)
             {
-                right=mid-1;
-                
+                right=mid-1;           
             }
             else
             {
@@ -47,7 +46,7 @@ class Solution {
 
         }
 
-        System.out.println(shipWeight +" "+trip);
+        // System.out.println(shipWeight +" "+trip);
 
         return trip <= days;
 

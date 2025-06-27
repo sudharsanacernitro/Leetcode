@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/sudharsanacernitro/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1022-unique-paths-iii](https://github.com/sudharsanacernitro/Leetcode/tree/master/1022-unique-paths-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sudharsanacernitro/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1224-minimum-falling-path-sum-ii](https://github.com/sudharsanacernitro/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sudharsanacernitro/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2591-frog-jump-ii](https://github.com/sudharsanacernitro/Leetcode/tree/master/2591-frog-jump-ii) |
 ## Two Pointers
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/sudharsanacernitro/Leetcode/tree/master/0337-house-robber-iii) |
 | [0377-combination-sum-iv](https://github.com/sudharsanacernitro/Leetcode/tree/master/0377-combination-sum-iv) |
 | [0967-minimum-falling-path-sum](https://github.com/sudharsanacernitro/Leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [1224-minimum-falling-path-sum-ii](https://github.com/sudharsanacernitro/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/sudharsanacernitro/Leetcode/tree/master/0221-maximal-square) |
 | [0967-minimum-falling-path-sum](https://github.com/sudharsanacernitro/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1022-unique-paths-iii](https://github.com/sudharsanacernitro/Leetcode/tree/master/1022-unique-paths-iii) |
+| [1224-minimum-falling-path-sum-ii](https://github.com/sudharsanacernitro/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 ## Simulation
 |  |
 | ------- |

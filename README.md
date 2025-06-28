@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sudharsanacernitro/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/sudharsanacernitro/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/sudharsanacernitro/Leetcode/tree/master/1254-deepest-leaves-sum) |
+| [2121-find-if-path-exists-in-graph](https://github.com/sudharsanacernitro/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sudharsanacernitro/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/sudharsanacernitro/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sudharsanacernitro/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/sudharsanacernitro/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/sudharsanacernitro/Leetcode/tree/master/1254-deepest-leaves-sum) |
+| [2121-find-if-path-exists-in-graph](https://github.com/sudharsanacernitro/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sudharsanacernitro/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/sudharsanacernitro/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Search Tree
@@ -278,4 +280,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/sudharsanacernitro/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+## Union Find
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/sudharsanacernitro/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+## Graph
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/sudharsanacernitro/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->

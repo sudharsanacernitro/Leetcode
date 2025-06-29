@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/sudharsanacernitro/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/sudharsanacernitro/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sudharsanacernitro/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0744-network-delay-time](https://github.com/sudharsanacernitro/Leetcode/tree/master/0744-network-delay-time) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/sudharsanacernitro/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sudharsanacernitro/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/sudharsanacernitro/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/sudharsanacernitro/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/sudharsanacernitro/Leetcode/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sudharsanacernitro/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0744-network-delay-time](https://github.com/sudharsanacernitro/Leetcode/tree/master/0744-network-delay-time) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/sudharsanacernitro/Leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sudharsanacernitro/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/sudharsanacernitro/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0310-minimum-height-trees](https://github.com/sudharsanacernitro/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/sudharsanacernitro/Leetcode/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/sudharsanacernitro/Leetcode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sudharsanacernitro/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/sudharsanacernitro/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [2121-find-if-path-exists-in-graph](https://github.com/sudharsanacernitro/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -314,10 +317,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/sudharsanacernitro/Leetcode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sudharsanacernitro/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/sudharsanacernitro/Leetcode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sudharsanacernitro/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Topological Sort
 |  |

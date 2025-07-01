@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/sudharsanacernitro/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sudharsanacernitro/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/sudharsanacernitro/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
+| [1753-path-with-minimum-effort](https://github.com/sudharsanacernitro/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/sudharsanacernitro/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sudharsanacernitro/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2591-frog-jump-ii](https://github.com/sudharsanacernitro/Leetcode/tree/master/2591-frog-jump-ii) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/sudharsanacernitro/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/sudharsanacernitro/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sudharsanacernitro/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1753-path-with-minimum-effort](https://github.com/sudharsanacernitro/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2591-frog-jump-ii](https://github.com/sudharsanacernitro/Leetcode/tree/master/2591-frog-jump-ii) |
 ## Prefix Sum
 |  |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-unique-paths-iii](https://github.com/sudharsanacernitro/Leetcode/tree/master/1022-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/sudharsanacernitro/Leetcode/tree/master/1036-rotting-oranges) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/sudharsanacernitro/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
+| [1753-path-with-minimum-effort](https://github.com/sudharsanacernitro/Leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Simulation
 |  |
 | ------- |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sudharsanacernitro/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/sudharsanacernitro/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/sudharsanacernitro/Leetcode/tree/master/1254-deepest-leaves-sum) |
+| [1753-path-with-minimum-effort](https://github.com/sudharsanacernitro/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/sudharsanacernitro/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/sudharsanacernitro/Leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2439-longest-cycle-in-a-graph](https://github.com/sudharsanacernitro/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
@@ -268,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/sudharsanacernitro/Leetcode/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/sudharsanacernitro/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/sudharsanacernitro/Leetcode/tree/master/1254-deepest-leaves-sum) |
+| [1753-path-with-minimum-effort](https://github.com/sudharsanacernitro/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/sudharsanacernitro/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/sudharsanacernitro/Leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2439-longest-cycle-in-a-graph](https://github.com/sudharsanacernitro/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
@@ -309,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/sudharsanacernitro/Leetcode/tree/master/0547-number-of-provinces) |
+| [1753-path-with-minimum-effort](https://github.com/sudharsanacernitro/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/sudharsanacernitro/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/sudharsanacernitro/Leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/sudharsanacernitro/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
@@ -331,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-network-delay-time](https://github.com/sudharsanacernitro/Leetcode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sudharsanacernitro/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1753-path-with-minimum-effort](https://github.com/sudharsanacernitro/Leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Shortest Path
 |  |
 | ------- |

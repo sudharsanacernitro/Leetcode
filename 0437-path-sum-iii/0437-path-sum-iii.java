@@ -19,10 +19,11 @@ class Solution {
     public int pathSum(TreeNode root, int targetSum) {
 
         HashMap<Long,Integer> prefixSum=new HashMap<>();
-        prefixSum.put(0L,1);
 
+        prefixSum.put(0L,1);
+        
         dfs(root,(long)targetSum,(long)0,prefixSum);
-        System.out.println(count);
+
         return count;
     }
 
@@ -30,14 +31,17 @@ class Solution {
     {
         if(root == null) return;
 
-        currSum+=root.val;
+       currSum+=root.val;
 
-        count+=prefixSum.getOrDefault(currSum-targetSum,0);
+       if(prefixSum.containsKey(currSum-targetSum))
+       {
+        count+=prefixSum.get(currSum-targetSum);
+       }
 
-        prefixSum.put(currSum,prefixSum.getOrDefault(currSum,0)+1);
+       prefixSum.put(currSum,prefixSum.getOrDefault(currSum,0)+1);
 
-        dfs(root.left,targetSum,currSum,prefixSum);
-        dfs(root.right,targetSum,currSum,prefixSum);
+       dfs(root.left,targetSum,currSum,prefixSum);
+       dfs(root.right,targetSum,currSum,prefixSum);
 
         prefixSum.put(currSum, prefixSum.get(currSum) - 1);
     }

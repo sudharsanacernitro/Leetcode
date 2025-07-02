@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sudharsanacernitro/Leetcode/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sudharsanacernitro/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0371-sum-of-two-integers](https://github.com/sudharsanacernitro/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/sudharsanacernitro/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Dynamic Programming
 |  |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/sudharsanacernitro/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [1022-unique-paths-iii](https://github.com/sudharsanacernitro/Leetcode/tree/master/1022-unique-paths-iii) |
 ## String Matching
 |  |

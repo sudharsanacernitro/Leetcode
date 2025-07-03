@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sudharsanacernitro/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/sudharsanacernitro/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/sudharsanacernitro/Leetcode/tree/master/1254-deepest-leaves-sum) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/sudharsanacernitro/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sudharsanacernitro/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1753-path-with-minimum-effort](https://github.com/sudharsanacernitro/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/sudharsanacernitro/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/sudharsanacernitro/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/sudharsanacernitro/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1254-deepest-leaves-sum](https://github.com/sudharsanacernitro/Leetcode/tree/master/1254-deepest-leaves-sum) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/sudharsanacernitro/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sudharsanacernitro/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1753-path-with-minimum-effort](https://github.com/sudharsanacernitro/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/sudharsanacernitro/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/sudharsanacernitro/Leetcode/tree/master/0547-number-of-provinces) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/sudharsanacernitro/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/sudharsanacernitro/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/sudharsanacernitro/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/sudharsanacernitro/Leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/sudharsanacernitro/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/sudharsanacernitro/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1039-find-the-town-judge](https://github.com/sudharsanacernitro/Leetcode/tree/master/1039-find-the-town-judge) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/sudharsanacernitro/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sudharsanacernitro/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2121-find-if-path-exists-in-graph](https://github.com/sudharsanacernitro/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/sudharsanacernitro/Leetcode/tree/master/2151-the-time-when-the-network-becomes-idle) |

@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/sudharsanacernitro/Leetcode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/sudharsanacernitro/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0377-combination-sum-iv](https://github.com/sudharsanacernitro/Leetcode/tree/master/0377-combination-sum-iv) |
+| [0475-heaters](https://github.com/sudharsanacernitro/Leetcode/tree/master/0475-heaters) |
 | [0560-subarray-sum-equals-k](https://github.com/sudharsanacernitro/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/sudharsanacernitro/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/sudharsanacernitro/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/sudharsanacernitro/Leetcode/tree/master/0031-next-permutation) |
 | [0143-reorder-list](https://github.com/sudharsanacernitro/Leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/sudharsanacernitro/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0475-heaters](https://github.com/sudharsanacernitro/Leetcode/tree/master/0475-heaters) |
 ## Stack
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/sudharsanacernitro/Leetcode/tree/master/0047-permutations-ii) |
+| [0475-heaters](https://github.com/sudharsanacernitro/Leetcode/tree/master/0475-heaters) |
 | [0594-longest-harmonious-subsequence](https://github.com/sudharsanacernitro/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/sudharsanacernitro/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/sudharsanacernitro/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sudharsanacernitro/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/sudharsanacernitro/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0475-heaters](https://github.com/sudharsanacernitro/Leetcode/tree/master/0475-heaters) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sudharsanacernitro/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1753-path-with-minimum-effort](https://github.com/sudharsanacernitro/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2591-frog-jump-ii](https://github.com/sudharsanacernitro/Leetcode/tree/master/2591-frog-jump-ii) |

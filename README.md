@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/sudharsanacernitro/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0377-combination-sum-iv](https://github.com/sudharsanacernitro/Leetcode/tree/master/0377-combination-sum-iv) |
 | [0475-heaters](https://github.com/sudharsanacernitro/Leetcode/tree/master/0475-heaters) |
+| [0477-total-hamming-distance](https://github.com/sudharsanacernitro/Leetcode/tree/master/0477-total-hamming-distance) |
 | [0560-subarray-sum-equals-k](https://github.com/sudharsanacernitro/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/sudharsanacernitro/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/sudharsanacernitro/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sudharsanacernitro/Leetcode/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sudharsanacernitro/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0371-sum-of-two-integers](https://github.com/sudharsanacernitro/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0477-total-hamming-distance](https://github.com/sudharsanacernitro/Leetcode/tree/master/0477-total-hamming-distance) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/sudharsanacernitro/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Dynamic Programming
 |  |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/sudharsanacernitro/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0477-total-hamming-distance](https://github.com/sudharsanacernitro/Leetcode/tree/master/0477-total-hamming-distance) |
 | [1022-unique-paths-iii](https://github.com/sudharsanacernitro/Leetcode/tree/master/1022-unique-paths-iii) |
 ## String Matching
 |  |

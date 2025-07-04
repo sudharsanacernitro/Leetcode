@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sudharsanacernitro/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/sudharsanacernitro/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/sudharsanacernitro/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0654-maximum-binary-tree](https://github.com/sudharsanacernitro/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0735-asteroid-collision](https://github.com/sudharsanacernitro/Leetcode/tree/master/0735-asteroid-collision) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/sudharsanacernitro/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/sudharsanacernitro/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/sudharsanacernitro/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/sudharsanacernitro/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/sudharsanacernitro/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0654-maximum-binary-tree](https://github.com/sudharsanacernitro/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0735-asteroid-collision](https://github.com/sudharsanacernitro/Leetcode/tree/master/0735-asteroid-collision) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/sudharsanacernitro/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/sudharsanacernitro/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/sudharsanacernitro/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0654-maximum-binary-tree](https://github.com/sudharsanacernitro/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/sudharsanacernitro/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/sudharsanacernitro/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 ## Hash Table
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/sudharsanacernitro/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/sudharsanacernitro/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sudharsanacernitro/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/sudharsanacernitro/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/sudharsanacernitro/Leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/sudharsanacernitro/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0832-binary-tree-pruning](https://github.com/sudharsanacernitro/Leetcode/tree/master/0832-binary-tree-pruning) |
@@ -262,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/sudharsanacernitro/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/sudharsanacernitro/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sudharsanacernitro/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/sudharsanacernitro/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0832-binary-tree-pruning](https://github.com/sudharsanacernitro/Leetcode/tree/master/0832-binary-tree-pruning) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sudharsanacernitro/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sudharsanacernitro/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -375,4 +380,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/sudharsanacernitro/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/sudharsanacernitro/Leetcode/tree/master/0310-minimum-height-trees) |
 | [2439-longest-cycle-in-a-graph](https://github.com/sudharsanacernitro/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/sudharsanacernitro/Leetcode/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->

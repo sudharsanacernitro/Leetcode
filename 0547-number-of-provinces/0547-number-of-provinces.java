@@ -3,56 +3,49 @@ class Solution {
     boolean[] visited;
     public int findCircleNum(int[][] isConnected) {
 
-        int n=isConnected.length,province=0;
+        List<List<Integer>> adj=new ArrayList<>();
 
-        visited=new boolean[n];
+        int V=isConnected.length;
 
-        List<List<Integer>> adjList = new ArrayList<>();
+        visited=new boolean[V];
 
-        for(int i=0;i<n;i++)
+        for(int i=0;i<V;i++)
         {
             List<Integer> lst=new ArrayList<>();
-            for(int j=0;j<n;j++)
+            for(int j=0;j<V;j++)
             {
-                if( i == j || isConnected[i][j] == 0)
-                {
-                    continue;
-                } 
-                
+                if( i == j || isConnected[i][j] == 0) continue;
+
                 lst.add(j);
             }
-            adjList.add(lst);
+
+            adj.add(lst);
         }
 
-        System.out.println(adjList.toString());
-
-        for(int i=0;i<n;i++)
+        System.out.println(adj.toString());
+        
+        int count=0;
+        for(int i=0;i<V;i++)
         {
-            if(visited[i]) continue;
+            if(visited[i] ) continue;
 
-            visited[i]=true;
-            dfs(adjList,i,new HashSet<>());
-            province++;
+            count++;
+            dfs(adj,visited,i);
         }
 
-        return province;
+        return count;
     }
 
-    void dfs( List<List<Integer>> adjList,int curr,HashSet<Integer> vis)
+    void dfs(List<List<Integer>> adj,boolean[] visited,int curr)
     {
-        visited[curr]=true;
-       
+        if(visited[curr]) return;
 
-        List<Integer> lst=adjList.get(curr);
-        for(int i:lst)
+        visited[curr]=true;
+
+        for(int i:adj.get(curr))
         {
-            if(!vis.contains(i))
-            {
-                 vis.add(curr);
-                 dfs(adjList,i,vis);
-                 vis.remove(vis.size()-1);
-            }
-            
+            if(!visited[i])
+            dfs(adj,visited,i);
         }
     }
 }

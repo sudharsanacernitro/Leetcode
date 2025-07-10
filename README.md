@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sudharsanacernitro/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/sudharsanacernitro/Leetcode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/sudharsanacernitro/Leetcode/tree/master/0031-next-permutation) |
 | [0040-combination-sum-ii](https://github.com/sudharsanacernitro/Leetcode/tree/master/0040-combination-sum-ii) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sudharsanacernitro/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sudharsanacernitro/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sudharsanacernitro/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0508-most-frequent-subtree-sum](https://github.com/sudharsanacernitro/Leetcode/tree/master/0508-most-frequent-subtree-sum) |

@@ -1,63 +1,65 @@
 class Solution {
     public int[] asteroidCollision(int[] asteroids) {
         
-        Stack<Integer> stack=new Stack<>();
+      Stack<Integer> stack=new Stack<>();
 
-        for(int i=0;i<asteroids.length;i++)
+        int n=asteroids.length;
+
+      for(int i=0;i<n;i++)
+      {
+        int currComet=asteroids[i];
+
+        if(stack.isEmpty())
         {
-           
-                        int currComet=asteroids[i];
+            stack.push(currComet);
+            continue;
+        }
 
-        if (stack.isEmpty()) {
-                stack.push(currComet);
-                continue;
-            }
+        boolean currCometWon=true;
 
-             int peek=stack.peek();
+        // if(stack.peek() > 0 && currComet > 0) stack.push(currComet);
+        while(!stack.isEmpty() && stack.peek() > 0 && currComet < 0)
+        {
+            // currCometWon=false;
+            int weightOfPeekComet=Math.abs(stack.peek());
+            int weightOfCurrComet=Math.abs(currComet);
 
-
-
-            // Same direction or non-colliding cases
-            if ((peek > 0 && currComet > 0) || 
-                (peek < 0 && currComet < 0) || 
-                (peek < 0 && currComet > 0)) {
-                stack.push(currComet);
-                continue;
-            }
-
-            boolean currCometWon=true;
-
-            while(!stack.isEmpty() && stack.peek() > 0 && currComet < 0 )
+            if(weightOfPeekComet < weightOfCurrComet)
             {
-                 peek=stack.pop();
-
-               
-                if (Math.abs(peek) == Math.abs(currComet)) {
-                    currCometWon = false;
-                    break; // both explode
-                }
-
-                if (Math.abs(peek) > Math.abs(currComet)) {
-                    stack.push(peek); // current comet destroyed
-                    currCometWon = false;
-                    break;
-                }
-
+                stack.pop();
             }
 
-            if(currCometWon) stack.push(currComet);
+            else if(weightOfPeekComet > weightOfCurrComet)
+            {
+                currCometWon=false;
+                 break;
+            }
 
+            else
+            {
+                 currCometWon=false;
+                stack.pop();
+                break;
+            }
         }
 
-        System.out.println(stack.toString());
+        if(currCometWon) stack.push(currComet);
 
-        int result[]=new int[stack.size()];
-        int i=0;
-        while(!stack.isEmpty())
-        {
-            result[i++]=stack.remove(0);
+      }
+
+      System.out.println(stack.toString());
+
+
+        int[] result = new int[stack.size()];
+        for (int i = stack.size() - 1; i >= 0; i--) {
+            result[i] = stack.get(i); 
         }
+
+        
+
         return result;
 
+
     }
+
 }

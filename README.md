@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1224-minimum-falling-path-sum-ii](https://github.com/sudharsanacernitro/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1753-path-with-minimum-effort](https://github.com/sudharsanacernitro/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/sudharsanacernitro/Leetcode/tree/master/2151-the-time-when-the-network-becomes-idle) |
+| [2245-destroying-asteroids](https://github.com/sudharsanacernitro/Leetcode/tree/master/2245-destroying-asteroids) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/sudharsanacernitro/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sudharsanacernitro/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2591-frog-jump-ii](https://github.com/sudharsanacernitro/Leetcode/tree/master/2591-frog-jump-ii) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sudharsanacernitro/Leetcode/tree/master/0011-container-with-most-water) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/sudharsanacernitro/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/sudharsanacernitro/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [2245-destroying-asteroids](https://github.com/sudharsanacernitro/Leetcode/tree/master/2245-destroying-asteroids) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sudharsanacernitro/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2591-frog-jump-ii](https://github.com/sudharsanacernitro/Leetcode/tree/master/2591-frog-jump-ii) |
 ## Sorting
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/sudharsanacernitro/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/sudharsanacernitro/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sudharsanacernitro/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2245-destroying-asteroids](https://github.com/sudharsanacernitro/Leetcode/tree/master/2245-destroying-asteroids) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sudharsanacernitro/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 ## Monotonic Stack
 |  |

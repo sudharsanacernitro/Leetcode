@@ -434,4 +434,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/sudharsanacernitro/Leetcode/tree/master/0146-lru-cache) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/sudharsanacernitro/Leetcode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->

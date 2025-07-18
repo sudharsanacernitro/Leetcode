@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/sudharsanacernitro/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sudharsanacernitro/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/sudharsanacernitro/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0200-number-of-islands](https://github.com/sudharsanacernitro/Leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/sudharsanacernitro/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/sudharsanacernitro/Leetcode/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/sudharsanacernitro/Leetcode/tree/master/0221-maximal-square) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/sudharsanacernitro/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0200-number-of-islands](https://github.com/sudharsanacernitro/Leetcode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/sudharsanacernitro/Leetcode/tree/master/0221-maximal-square) |
 | [0967-minimum-falling-path-sum](https://github.com/sudharsanacernitro/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1022-unique-paths-iii](https://github.com/sudharsanacernitro/Leetcode/tree/master/1022-unique-paths-iii) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/sudharsanacernitro/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/sudharsanacernitro/Leetcode/tree/master/0113-path-sum-ii) |
+| [0200-number-of-islands](https://github.com/sudharsanacernitro/Leetcode/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/sudharsanacernitro/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sudharsanacernitro/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0310-minimum-height-trees](https://github.com/sudharsanacernitro/Leetcode/tree/master/0310-minimum-height-trees) |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/sudharsanacernitro/Leetcode/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/sudharsanacernitro/Leetcode/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/sudharsanacernitro/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/sudharsanacernitro/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0513-find-bottom-left-tree-value](https://github.com/sudharsanacernitro/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
@@ -409,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/sudharsanacernitro/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sudharsanacernitro/Leetcode/tree/master/0547-number-of-provinces) |
 | [1073-number-of-enclaves](https://github.com/sudharsanacernitro/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/sudharsanacernitro/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |

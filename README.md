@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sudharsanacernitro/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/sudharsanacernitro/Leetcode/tree/master/0022-generate-parentheses) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sudharsanacernitro/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sudharsanacernitro/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0606-construct-string-from-binary-tree](https://github.com/sudharsanacernitro/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sudharsanacernitro/Leetcode/tree/master/0022-generate-parentheses) |
 | [0064-minimum-path-sum](https://github.com/sudharsanacernitro/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/sudharsanacernitro/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/sudharsanacernitro/Leetcode/tree/master/0213-house-robber-ii) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sudharsanacernitro/Leetcode/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/sudharsanacernitro/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sudharsanacernitro/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/sudharsanacernitro/Leetcode/tree/master/0047-permutations-ii) |

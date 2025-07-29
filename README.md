@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/sudharsanacernitro/Leetcode/tree/master/0739-daily-temperatures) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/sudharsanacernitro/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/sudharsanacernitro/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0881-loud-and-rich](https://github.com/sudharsanacernitro/Leetcode/tree/master/0881-loud-and-rich) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sudharsanacernitro/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0967-minimum-falling-path-sum](https://github.com/sudharsanacernitro/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1022-unique-paths-iii](https://github.com/sudharsanacernitro/Leetcode/tree/master/1022-unique-paths-iii) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/sudharsanacernitro/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0832-binary-tree-pruning](https://github.com/sudharsanacernitro/Leetcode/tree/master/0832-binary-tree-pruning) |
 | [0871-keys-and-rooms](https://github.com/sudharsanacernitro/Leetcode/tree/master/0871-keys-and-rooms) |
+| [0881-loud-and-rich](https://github.com/sudharsanacernitro/Leetcode/tree/master/0881-loud-and-rich) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sudharsanacernitro/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0933-increasing-order-search-tree](https://github.com/sudharsanacernitro/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/sudharsanacernitro/Leetcode/tree/master/0975-range-sum-of-bst) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/sudharsanacernitro/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/sudharsanacernitro/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/sudharsanacernitro/Leetcode/tree/master/0871-keys-and-rooms) |
+| [0881-loud-and-rich](https://github.com/sudharsanacernitro/Leetcode/tree/master/0881-loud-and-rich) |
 | [1039-find-the-town-judge](https://github.com/sudharsanacernitro/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/sudharsanacernitro/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sudharsanacernitro/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -496,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/sudharsanacernitro/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/sudharsanacernitro/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0820-find-eventual-safe-states](https://github.com/sudharsanacernitro/Leetcode/tree/master/0820-find-eventual-safe-states) |
+| [0881-loud-and-rich](https://github.com/sudharsanacernitro/Leetcode/tree/master/0881-loud-and-rich) |
 | [2439-longest-cycle-in-a-graph](https://github.com/sudharsanacernitro/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 ## Divide and Conquer
 |  |

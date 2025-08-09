@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/sudharsanacernitro/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0371-sum-of-two-integers](https://github.com/sudharsanacernitro/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0477-total-hamming-distance](https://github.com/sudharsanacernitro/Leetcode/tree/master/0477-total-hamming-distance) |
+| [0492-construct-the-rectangle](https://github.com/sudharsanacernitro/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/sudharsanacernitro/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Dynamic Programming
 |  |

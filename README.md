@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/sudharsanacernitro/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0606-construct-string-from-binary-tree](https://github.com/sudharsanacernitro/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [2107-find-unique-binary-string](https://github.com/sudharsanacernitro/Leetcode/tree/master/2107-find-unique-binary-string) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/sudharsanacernitro/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Sliding Window
 |  |
 | ------- |
@@ -456,12 +457,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/sudharsanacernitro/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1022-unique-paths-iii](https://github.com/sudharsanacernitro/Leetcode/tree/master/1022-unique-paths-iii) |
 | [2107-find-unique-binary-string](https://github.com/sudharsanacernitro/Leetcode/tree/master/2107-find-unique-binary-string) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/sudharsanacernitro/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/sudharsanacernitro/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0477-total-hamming-distance](https://github.com/sudharsanacernitro/Leetcode/tree/master/0477-total-hamming-distance) |
 | [1022-unique-paths-iii](https://github.com/sudharsanacernitro/Leetcode/tree/master/1022-unique-paths-iii) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/sudharsanacernitro/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## String Matching
 |  |
 | ------- |

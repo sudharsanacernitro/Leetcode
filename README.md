@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/sudharsanacernitro/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/sudharsanacernitro/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1753-path-with-minimum-effort](https://github.com/sudharsanacernitro/Leetcode/tree/master/1753-path-with-minimum-effort) |
+| [2107-find-unique-binary-string](https://github.com/sudharsanacernitro/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/sudharsanacernitro/Leetcode/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2245-destroying-asteroids](https://github.com/sudharsanacernitro/Leetcode/tree/master/2245-destroying-asteroids) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/sudharsanacernitro/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sudharsanacernitro/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sudharsanacernitro/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1039-find-the-town-judge](https://github.com/sudharsanacernitro/Leetcode/tree/master/1039-find-the-town-judge) |
+| [2107-find-unique-binary-string](https://github.com/sudharsanacernitro/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sudharsanacernitro/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## String
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/sudharsanacernitro/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sudharsanacernitro/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0606-construct-string-from-binary-tree](https://github.com/sudharsanacernitro/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
+| [2107-find-unique-binary-string](https://github.com/sudharsanacernitro/Leetcode/tree/master/2107-find-unique-binary-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -452,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/sudharsanacernitro/Leetcode/tree/master/0113-path-sum-ii) |
 | [0813-all-paths-from-source-to-target](https://github.com/sudharsanacernitro/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1022-unique-paths-iii](https://github.com/sudharsanacernitro/Leetcode/tree/master/1022-unique-paths-iii) |
+| [2107-find-unique-binary-string](https://github.com/sudharsanacernitro/Leetcode/tree/master/2107-find-unique-binary-string) |
 ## Bit Manipulation
 |  |
 | ------- |
